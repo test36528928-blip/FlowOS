@@ -21,7 +21,7 @@
 | **İşlemci** | 64-bit, çift çekirdekli, 1.5 GHz | Çift çekirdek / 4 izlek, 2.0 GHz veya üzeri |
 | **Bellek (RAM)** | Kurulu sistem için en az 1 GB | Canlı sistem (Live ISO) ve pratik kullanım için 2.5–4 GB veya üzeri |
 | **Depolama alanı** | En az 10 GB boş alan | 20–25 GB boş alan |
-| **Mimari** | x86_64 (64-bit Intel/AMD) veya aarch64 (ARM64) | — |
+| **Mimari** | x86_64 (64-bit Intel/AMD)| — |
 | **Grafik donanımı** | OpenGL 2.1 veya OpenGL ES 2.0 desteği, en az 128 MB VRAM | OpenGL 3.3 veya Vulkan 1.1 desteği, 256 MB veya üzeri VRAM |
 | **ISO imajı** | Yaklaşık 1.8 GB | Boyut sürüme göre değişebilir |
 
