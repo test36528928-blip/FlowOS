@@ -4,6 +4,8 @@
 
 FlowOS’un amacı; Linux’un esnekliğini, KDE Plasma’nın özelleştirilebilir masaüstü deneyimini ve kendine ait bir proje kimliğini bir arada sunmaktır. Bu depo, FlowOS’un ArchISO profilini, masaüstü ayarlarını, kurulum yapılandırmalarını ve görsel varlıklarını içerir.
 
+[🌐 FlowOS web sitesi](https://flowosweb.netlify.app) · [⬇️ Sürümleri ve ISO dosyalarını indir](https://github.com/test36528928-blip/FlowOS/releases)
+
 ## FlowOS’un yaklaşımı
 
 FlowOS; masaüstünü, başlangıç deneyimini ve kurulum adımlarını tutarlı bir bütün hâline getirmeyi hedefler. Sistem profili Arch Linux paketleri üzerine kuruludur. Masaüstü deneyimi KDE Plasma bileşenleriyle hazırlanır; kurulum akışı ise Calamares yapılandırması üzerinden sunulur.
