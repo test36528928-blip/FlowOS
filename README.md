@@ -76,4 +76,4 @@ FlowOS aşağıdaki açık kaynaklı projelerden yararlanır:
 - [Calamares](https://calamares.io/)
 
 Bu projelerin kendi lisansları ve kullanım koşulları bulunabilir.
-``` **Not:** `aarch64` desteğini README’de belirtmek, ARM64 için de FlowOS imajı veya kurulum yolu sunacağın anlamına gelir.
+
