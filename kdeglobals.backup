@@ -1,0 +1,12 @@
+[KDE]
+SingleClick=false
+
+[General]
+ColorScheme=FlowOS
+Name=FlowOS
+
+[Icons]
+Theme=breeze
+
+[KDE Action Restrictions]
+action/help=false

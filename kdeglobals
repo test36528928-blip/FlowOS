@@ -1,0 +1,18 @@
+[KDE]
+SingleClick=false
+
+[General]
+ColorScheme=FlowOS
+Name=FlowOS
+
+[Icons]
+Theme=breeze
+
+[WM]
+activeBackground=26,115,232
+activeForeground=255,255,255
+inactiveBackground=240,240,246
+inactiveForeground=35,35,45
+
+[KDE Action Restrictions]
+action/help=false
