@@ -1,0 +1,29 @@
+componentName: flowos
+welcomeStyleCalamares: false
+welcomeExpandingLogo: true
+windowExpanding: normal
+windowSize: 1000px,650px
+windowPlacement: center
+sidebar: widget
+navigation: widget
+strings:
+  productName: FlowOS
+  shortProductName: FlowOS
+  version: '1.0'
+  shortVersion: '1.0'
+  versionedName: FlowOS 1.0
+  shortVersionedName: FlowOS 1.0
+  bootloaderEntryName: FlowOS
+  productUrl: https://flowosweb.netlify.app/
+  supportUrl: https://flowosweb.netlify.app/
+  knownIssuesUrl: https://flowosweb.netlify.app/
+  releaseNotesUrl: https://flowosweb.netlify.app/
+images:
+  productIcon: flowos-logo.svg
+  productLogo: flowos-logo.svg
+  productWallpaper: FlowOS-Wallpaper.jpg
+style:
+  sidebarBackground: '#F7F9FC'
+  sidebarText: '#202124'
+  sidebarTextSelect: '#1A73E8'
+  sidebarTextHighlight: '#1A73E8'
