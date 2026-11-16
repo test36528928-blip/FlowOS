@@ -1,0 +1,15 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "FlowOS Project"
+            }
+        ],
+        "Category": "Plasma Look and Feel",
+        "Description": "FlowOS Default Desktop Experience",
+        "Id": "com.flowos.desktop",
+        "License": "GPL-3.0-or-later",
+        "Name": "FlowOS",
+        "Version": "1.0.0"
+    }
+}

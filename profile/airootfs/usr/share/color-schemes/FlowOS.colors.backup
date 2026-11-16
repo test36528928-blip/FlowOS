@@ -1,0 +1,15 @@
+[ColorScheme]
+Name=FlowOS
+Description=FlowOS Default Color Scheme
+BackgroundNormal=248,248,252
+BackgroundAlternate=240,240,246
+ForegroundNormal=35,35,45
+ForegroundInactive=120,120,130
+DecorationFocus=26,115,232
+DecorationHover=80,150,240
+SelectionBackground=26,115,232
+SelectionForeground=255,255,255
+
+[General]
+ColorScheme=FlowOS
+Name=FlowOS
